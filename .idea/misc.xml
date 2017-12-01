@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/appster-oa-build-init/pom.xml" />
+        <option value="$PROJECT_DIR$/appster-oa-build-common/pom.xml" />
+        <option value="$PROJECT_DIR$/appster-oa-build-oa/pom.xml" />
+        <option value="$PROJECT_DIR$/appster-oa-microservice-discipline/pom.xml" />
+        <option value="$PROJECT_DIR$/appster-oa-build/pom.xml" />
+        <option value="$PROJECT_DIR$/appster-oa-config-api-gateway-i18n/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

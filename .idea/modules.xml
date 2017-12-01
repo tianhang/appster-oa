@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-api-gateway/appster-oa-api-gateway.iml" filepath="$PROJECT_DIR$/appster-oa-api-gateway/appster-oa-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-build/appster-oa-build.iml" filepath="$PROJECT_DIR$/appster-oa-build/appster-oa-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-build-common/appster-oa-build-common.iml" filepath="$PROJECT_DIR$/appster-oa-build-common/appster-oa-build-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-build-init/appster-oa-build-init.iml" filepath="$PROJECT_DIR$/appster-oa-build-init/appster-oa-build-init.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-build-oa/appster-oa-build-oa.iml" filepath="$PROJECT_DIR$/appster-oa-build-oa/appster-oa-build-oa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-build-oa-level1/appster-oa-build-oa-level1.iml" filepath="$PROJECT_DIR$/appster-oa-build-oa-level1/appster-oa-build-oa-level1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-build-oa-level2/appster-oa-build-oa-level2.iml" filepath="$PROJECT_DIR$/appster-oa-build-oa-level2/appster-oa-build-oa-level2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-common-eventbus/appster-oa-common-eventbus.iml" filepath="$PROJECT_DIR$/appster-oa-common-eventbus/appster-oa-common-eventbus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-common-microservice/appster-oa-common-microservice.iml" filepath="$PROJECT_DIR$/appster-oa-common-microservice/appster-oa-common-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-common-protocol/appster-oa-common-protocol.iml" filepath="$PROJECT_DIR$/appster-oa-common-protocol/appster-oa-common-protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-config/appster-oa-config.iml" filepath="$PROJECT_DIR$/appster-oa-config/appster-oa-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-config-api-gateway-i18n/appster-oa-config-api-gateway-i18n.iml" filepath="$PROJECT_DIR$/appster-oa-config-api-gateway-i18n/appster-oa-config-api-gateway-i18n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-config-test-microservice/appster-oa-config-test-microservice.iml" filepath="$PROJECT_DIR$/appster-oa-config-test-microservice/appster-oa-config-test-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-announcement/appster-oa-microservice-announcement.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-announcement/appster-oa-microservice-announcement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-attendance/appster-oa-microservice-attendance.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-attendance/appster-oa-microservice-attendance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-bpm/appster-oa-microservice-bpm.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-bpm/appster-oa-microservice-bpm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-claim/appster-oa-microservice-claim.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-claim/appster-oa-microservice-claim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-counterparty/appster-oa-microservice-counterparty.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-counterparty/appster-oa-microservice-counterparty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-currency/appster-oa-microservice-currency.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-currency/appster-oa-microservice-currency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-discipline/appster-oa-microservice-discipline.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-discipline/appster-oa-microservice-discipline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-email/appster-oa-microservice-email.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-email/appster-oa-microservice-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-event/appster-oa-microservice-event.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-event/appster-oa-microservice-event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-expense/appster-oa-microservice-expense.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-expense/appster-oa-microservice-expense.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-file/appster-oa-microservice-file.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-file/appster-oa-microservice-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-grade/appster-oa-microservice-grade.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-grade/appster-oa-microservice-grade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-handbook/appster-oa-microservice-handbook.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-handbook/appster-oa-microservice-handbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-holiday/appster-oa-microservice-holiday.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-holiday/appster-oa-microservice-holiday.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-integration/appster-oa-microservice-integration.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-integration/appster-oa-microservice-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-kpi/appster-oa-microservice-kpi.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-kpi/appster-oa-microservice-kpi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-leave/appster-oa-microservice-leave.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-leave/appster-oa-microservice-leave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-location/appster-oa-microservice-location.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-location/appster-oa-microservice-location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-message/appster-oa-microservice-message.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-message/appster-oa-microservice-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-organization/appster-oa-microservice-organization.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-organization/appster-oa-microservice-organization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-payroll/appster-oa-microservice-payroll.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-payroll/appster-oa-microservice-payroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-report/appster-oa-microservice-report.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-report/appster-oa-microservice-report.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-security/appster-oa-microservice-security.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-security/appster-oa-microservice-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-system/appster-oa-microservice-system.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-system/appster-oa-microservice-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-task/appster-oa-microservice-task.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-task/appster-oa-microservice-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-microservice-workday/appster-oa-microservice-workday.iml" filepath="$PROJECT_DIR$/appster-oa-microservice-workday/appster-oa-microservice-workday.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-pom/appster-oa-pom.iml" filepath="$PROJECT_DIR$/appster-oa-pom/appster-oa-pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-pom-common/appster-oa-pom-common.iml" filepath="$PROJECT_DIR$/appster-oa-pom-common/appster-oa-pom-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-pom-hibernate/appster-oa-pom-hibernate.iml" filepath="$PROJECT_DIR$/appster-oa-pom-hibernate/appster-oa-pom-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-pom-log/appster-oa-pom-log.iml" filepath="$PROJECT_DIR$/appster-oa-pom-log/appster-oa-pom-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-pom-microservice/appster-oa-pom-microservice.iml" filepath="$PROJECT_DIR$/appster-oa-pom-microservice/appster-oa-pom-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-pom-microservice2/appster-oa-pom-microservice2.iml" filepath="$PROJECT_DIR$/appster-oa-pom-microservice2/appster-oa-pom-microservice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-pom-mysql/appster-oa-pom-mysql.iml" filepath="$PROJECT_DIR$/appster-oa-pom-mysql/appster-oa-pom-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-pom-spring/appster-oa-pom-spring.iml" filepath="$PROJECT_DIR$/appster-oa-pom-spring/appster-oa-pom-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-pom-web/appster-oa-pom-web.iml" filepath="$PROJECT_DIR$/appster-oa-pom-web/appster-oa-pom-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appster-oa-web/appster-oa-web.iml" filepath="$PROJECT_DIR$/appster-oa-web/appster-oa-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
+    </modules>
+  </component>
+</project>
